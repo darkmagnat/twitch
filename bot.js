@@ -8,9 +8,9 @@ client.on('ready', function(){
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
     name: '-Universe Town` 1K-Soon........ ',
-    application_id: '501452003143319553',//هنا ايدي البوت 
+    application_id: '515836105354903552',//هنا ايدي البوت 
      assets: {
-         large_image:   `509420418453471236`, //هنا id صوره يلي جبت
+         large_image:   `515924915615170613`, //هنا id صوره يلي جبت
   
     }
   }
