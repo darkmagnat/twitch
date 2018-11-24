@@ -7,7 +7,7 @@ client.on('ready', function(){
  game: { 
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
-    name: '-Universe Town` 1K-Soon........ ',
+    name: 'What .-.',
     application_id: '515836105354903552',//هنا ايدي البوت 
      assets: {
          large_image:   `515924915615170613`, //هنا id صوره يلي جبت
